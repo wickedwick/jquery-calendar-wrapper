@@ -1,0 +1,25 @@
+{
+  "name": "jquery-calendar-wrapper",
+  "version": "0.1.0",
+  "description": "jQuery based calendar widget.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wickedwick/jquery-calendar-wrapper.git"
+  },
+  "author": "Travis Wickham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wickedwick/jquery-calendar-wrapper/issues"
+  },
+  "homepage": "https://github.com/wickedwick/jquery-calendar-wrapper#readme",
+  "dependencies": {
+    "@fullcalendar/core": "^4.1.0",
+    "@fullcalendar/daygrid": "^4.1.0",
+    "fullcalendar": "^3.10.0",
+    "jquery": "^3.4.1"
+  }
+}
